@@ -1,6 +1,6 @@
 # Power-Bi
 
-** "Unearthing Insights: Global Earthquake Analysis with Power BI"**
+**"Unearthing Insights: Global Earthquake Analysis with Power BI"**
 
 Earthquakes are natural disasters that have profound global impacts. Analyzing earthquake data can provide valuable insights into their occurrence patterns and the affected regions. Power BI, a powerful data visualization tool, offers an excellent platform for conducting comprehensive global earthquake analysis.
 
